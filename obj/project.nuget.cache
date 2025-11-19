@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "/itA4ORjXR8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aroncal\\Repos\\mcp_claude_rhino\\RhinoMcpServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aroncal\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\aroncal\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://pkgs.dev.azure.com/hksinc/21a4981d-c742-4c12-89fc-c8f455f26bdb/_packaging/AI_Research/nuget/v3/index.json.",
+      "projectPath": "C:\\Users\\aroncal\\Repos\\mcp_claude_rhino\\RhinoMcpServer.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\aroncal\\Repos\\mcp_claude_rhino\\RhinoMcpServer.csproj",
+      "targetGraphs": []
+    }
+  ]
+}

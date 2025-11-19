@@ -1,0 +1,5 @@
+C:\Users\aroncal\Repos\mcp_claude_rhino\obj\Debug\net8.0\RhinoMcpServer.csproj.AssemblyReference.cache
+C:\Users\aroncal\Repos\mcp_claude_rhino\obj\Debug\net8.0\RhinoMcpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aroncal\Repos\mcp_claude_rhino\obj\Debug\net8.0\RhinoMcpServer.AssemblyInfoInputs.cache
+C:\Users\aroncal\Repos\mcp_claude_rhino\obj\Debug\net8.0\RhinoMcpServer.AssemblyInfo.cs
+C:\Users\aroncal\Repos\mcp_claude_rhino\obj\Debug\net8.0\RhinoMcpServer.csproj.CoreCompileInputs.cache

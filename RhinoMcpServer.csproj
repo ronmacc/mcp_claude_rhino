@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>RhinoMcpServer</RootNamespace>
+    <AssemblyName>rhino-mcp-server</AssemblyName>
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- JSON handling for MCP protocol -->
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <!-- For async I/O operations -->
+    <PackageReference Include="System.IO.Pipelines" Version="8.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- COM interop reference for Rhino -->
+    <!-- Note: You may need to add a COM reference to Rhino if available -->
+    <!-- This can be done via Visual Studio: Add Reference > COM > Rhino Application -->
+  </ItemGroup>
+
+</Project>
+
