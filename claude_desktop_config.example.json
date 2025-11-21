@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "rhino-mcp": {
+      "command": "node",
+      "args": ["C:/Users/aroncal/Repos/mcp_claude_rhino/dist/index.js"]
+    }
+  }
+}

@@ -75,3 +75,8 @@ server.registerTool("rhino_execute", {
 
 const transport = new StdioServerTransport();
 await server.connect(transport);
+
+// Log to stderr so it doesn't interfere with MCP protocol on stdout
+console.error('Rhino MCP Server started and waiting for connections...');
+console.error('Server name: rhino-server v1.0.0');
+console.error('Registered tool: rhino_execute');
