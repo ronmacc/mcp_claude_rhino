@@ -8,6 +8,11 @@ yarn-error.log*
 dist/
 build/
 out/
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
 
 # temp_scripts directory
 temp-scripts/
